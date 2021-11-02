@@ -2,6 +2,6 @@
 
 
 public class Class{
-	public static void ...
+	public static void
 	
 }
