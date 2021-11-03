@@ -1,0 +1,3 @@
+#ignorer les fichier sous le dossier lib
+lib/
+*.pdf
