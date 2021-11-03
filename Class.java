@@ -2,6 +2,6 @@
 import java.lang;
 
 public class Class{
-	public static void ...
+	public voir afficher(String s);
 	
 }
